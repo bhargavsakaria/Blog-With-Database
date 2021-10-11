@@ -1,0 +1,5 @@
+// MongoRunner> db.collection('articles').find().limit(20).toArray()
+{
+	title: "REST",
+	content: "REST is a a short form"
+}
